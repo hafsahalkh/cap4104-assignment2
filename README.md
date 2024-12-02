@@ -6,5 +6,6 @@ Develop a logo for your project. A team photo should appear on the start page, a
 names, roles, and FIU email contact info. An introduction of the project and the project logo should also
 appear on the start page. Each deliverable should have a dedicated section (tab) on the webpage:
 
-About | Research | Personas | Scenario | Storyboard | Moodboard | Flowchart | Wireframes | GUI | Prototype | References
+About | Personas | Scenario | Storyboard | Moodboard | Flowchart | Wireframes | Prototype
 
+Here is the final product! https://www.booksnstudy.net/flowchart
