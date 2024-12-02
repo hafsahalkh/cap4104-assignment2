@@ -8,4 +8,4 @@ appear on the start page. Each deliverable should have a dedicated section (tab)
 
 About | Personas | Scenario | Storyboard | Moodboard | Flowchart | Wireframes | Prototype
 
-Here is the final product! https://www.booksnstudy.net/flowchart
+Here is the final product! https://www.booksnstudy.net
